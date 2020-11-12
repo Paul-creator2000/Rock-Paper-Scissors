@@ -11,4 +11,4 @@ Rock paper scissors is a classic two player game. Each player chooses either roc
 
 ### Game cheatCode
 
-If the user inputs "bomb' they win automatically irregardless.
+If the user inputs 'bomb' they win automatically irregardless.
